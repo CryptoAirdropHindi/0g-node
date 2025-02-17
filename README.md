@@ -23,7 +23,7 @@ nano envfile.env
 - Y to confirm the save.
 - Enter to finalize.
 
-4. Start the Node with Docker:
+# 4. Start the Node with Docker:
 This will run the `0g-da-client` container with the configured environment file.
 ```
 docker run -d --env-file envfile.env --name 0g-da-client -v ./run:/runtime -p 51001:51001 0g-da-client combined
