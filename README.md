@@ -1,4 +1,4 @@
-# <h2 align=center>CAH-0g-node Setup Guide by CryptoAirdropHindi</h2>
+# <h2 align=center>0g-node Setup Guide by CryptoAirdropHindi</h2>
 
 
 # 1. Source the Client Script:
