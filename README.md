@@ -1,6 +1,8 @@
 # <h2 align=center>0g-node Setup Guide by CryptoAirdropHindi</h2>
 
 
+[TUTORIAL BY VIDEO](https://youtu.be/f-PG11CLgME?si=6dHhaozjzQpd-rIY)
+
 # 1. Source the Client Script:
 
 This will download and execute the `client.sh` script.
